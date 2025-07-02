@@ -1,5 +1,5 @@
 //script file or javascript part
-//con
+//cons
 const navbarShowBtn = document.querySelector('.navbar-show-btn');
 const navbarCollapseDiv = document.querySelector('.navbar-collapse');
 const navbarHideBtn = document.querySelector('.navbar-hide-btn');
