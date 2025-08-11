@@ -1,5 +1,6 @@
 //script file or javascript part
 //const navbarshowBtn 
+
 const navbarShowBtn = document.querySelector('.navbar-show-btn');
 const navbarCollapseDiv = document.querySelector('.navbar-collapse');
 const navbarHideBtn = document.querySelector('.navbar-hide-btn');
@@ -32,4 +33,5 @@ window.addEventListener('resize', () =>{
         document.body.classList.remove('resize-animation-stopper');
     }, 400);
 });
+
 
