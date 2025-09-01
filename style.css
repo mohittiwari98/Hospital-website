@@ -228,7 +228,7 @@ button[class ^= navbar]:hover{
     margin: 1.4rem 0;
 }
 .nav-link{
-    opacity: 0.8;
+    opacity: 0.5;
     font-weight: 600;
     -webkit-transition: var(--transition);
     -o-transition: var(--transition);
@@ -1012,4 +1012,5 @@ button[class ^= navbar]:hover{
     -o-transition: none!important;
     transition: none!important;
 }
+
 
