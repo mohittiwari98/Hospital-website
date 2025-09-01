@@ -121,7 +121,7 @@ a{
     display: grid;
 }
 input{
-    outline: 0;
+    outline: 2;
 }
 .lead{
     font-size: 25px;
@@ -1012,3 +1012,4 @@ button[class ^= navbar]:hover{
     -o-transition: none!important;
     transition: none!important;
 }
+
